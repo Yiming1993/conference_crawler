@@ -1,4 +1,4 @@
-# conference_crawler
+# conference_visualizer
 
 ## This is a tool for crawling information of AI/ML conferences, data structure as follows:
 
